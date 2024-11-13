@@ -101,7 +101,7 @@ function App() {
                 className="fill-black ml-2 mt-3 text-purple-700"
                 size={15}
               />
-              <span className="text-sm ml-2 mt-2">Work</span>
+              <span className="text-sm ml-2 mt-2">Work.....</span>
             </div>
             <div className="flex">
               <CgTag className="fill-black ml-2 mt-3 text-blue-700" size={15} />
